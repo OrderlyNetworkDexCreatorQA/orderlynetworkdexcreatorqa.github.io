@@ -1,0 +1,11 @@
+import{H as c,q as e}from"./index-mKddaBAm.js";import{L as p}from"./localizedRoute-CKdDXOxT.js";import{u as h}from"./useTranslation-EpBdfC1v.js";import{a as r,c as d}from"./utils-4JWnOiWi.js";import{u as f}from"./PlatformAccessProvider-TlJn7S2o.js";import{B as l}from"./building-2-EGVOGHpN.js";import{S as m}from"./star-C27QDAWE.js";import{S as b}from"./shield-check-CFvVtm__.js";/**
+ * @license lucide-react v0.525.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const g=[["path",{d:"m3 17 2 2 4-4",key:"1jhpwq"}],["path",{d:"m3 7 2 2 4-4",key:"1obspn"}],["path",{d:"M13 6h8",key:"15sg57"}],["path",{d:"M13 12h8",key:"h98zly"}],["path",{d:"M13 18h8",key:"oe0vm4"}]],u=r("list-checks",g);/**
+ * @license lucide-react v0.525.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const y=[["path",{d:"M15 18h-5",key:"95g1m2"}],["path",{d:"M18 14h-8",key:"sponae"}],["path",{d:"M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-4 0v-9a2 2 0 0 1 2-2h2",key:"39pd36"}],["rect",{width:"8",height:"4",x:"10",y:"6",rx:"1",key:"aywv1n"}]],k=r("newspaper",y),v=[{href:"/admin/blogposts/official",key:"officialPosts",icon:l,adminOnly:!0},{href:"/admin/blogposts/vetting",key:"vettingQueue",icon:u},{href:"/admin/blogposts/published",key:"publishedPosts",icon:k},{href:"/admin/blogposts/featured",key:"featured",icon:m},{href:"/admin/blogposts/access",key:"access",icon:b}];function B(){const{t:a}=h(),{pathname:o}=c(),{isAdmin:t}=f();return e.jsx("nav",{"aria-label":a("blogposts.staff.navigation"),className:"mb-5 flex min-w-0 gap-1 overflow-x-auto border-b border-[var(--border-subtle)] pb-2",children:v.filter(s=>(!("adminOnly"in s)||!s.adminOnly||t)&&(s.key!=="access"||t)).map(s=>{const n="exact"in s&&s.exact?/\/admin\/blogposts\/?$/.test(o):o.includes(s.href),i=s.icon;return e.jsxs(p,{to:s.href,className:d("inline-flex h-9 shrink-0 items-center gap-2 rounded-lg px-3 text-sm font-medium transition-colors",n?"bg-[var(--bg-primary-subtle)] text-[var(--fg-base)]":"text-[var(--fg-secondary)] hover:bg-[var(--bg-hover)] hover:text-[var(--fg-base)]"),children:[e.jsx(i,{className:"h-4 w-4"}),a(`blogposts.staff.${s.key}`)]},s.href)})})}export{k as N,B as S};

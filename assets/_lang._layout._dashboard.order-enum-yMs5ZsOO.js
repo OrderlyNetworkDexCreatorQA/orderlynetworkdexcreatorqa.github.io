@@ -1,0 +1,1 @@
+import{q as t,N as e}from"./index-mKddaBAm.js";import{u as o}from"./localizedRoute-CKdDXOxT.js";import"./languages-CXh9tEV1.js";import"./components-Cnc-IOWe.js";import"./index-CTSX1cbZ.js";import"./index-ClQRc5oQ.js";function c(){const r=o("/order-tags");return t.jsx(e,{to:r,replace:!0})}export{c as default};

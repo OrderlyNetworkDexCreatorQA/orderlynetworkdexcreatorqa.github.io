@@ -1,0 +1,1 @@
+import{q as s}from"./index-mKddaBAm.js";function t({children:r,className:e=""}){return s.jsx("section",{className:`rounded-xl border border-(--line-subtle) bg-(--bg-surface-primary) p-4 sm:p-6 ${e}`,children:r})}export{t as S};

@@ -1,0 +1,1 @@
+import{x as e}from"./index-mKddaBAm.js";import{a as r}from"./localizedRoute-CKdDXOxT.js";import"./languages-CXh9tEV1.js";import"./components-Cnc-IOWe.js";import"./index-CTSX1cbZ.js";import"./index-ClQRc5oQ.js";function u(){const t=r();return e.useEffect(()=>{t("/onboarding",{replace:!0})},[t]),null}export{u as default};

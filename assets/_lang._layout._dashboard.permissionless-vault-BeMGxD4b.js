@@ -1,0 +1,1 @@
+import{q as r,N as e}from"./index-mKddaBAm.js";import{u as s}from"./localizedRoute-CKdDXOxT.js";import"./languages-CXh9tEV1.js";import"./components-Cnc-IOWe.js";import"./index-CTSX1cbZ.js";import"./index-ClQRc5oQ.js";function u(){const t=s("/permissionless-listing");return r.jsx(e,{to:t,replace:!0})}export{u as default};
