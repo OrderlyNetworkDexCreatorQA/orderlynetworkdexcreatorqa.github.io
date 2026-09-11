@@ -1,0 +1,1 @@
+import{q as a}from"./index-CeStS-fb.js";import{O as r}from"./OdsBadge-BWciFzkh.js";function p({status:e}){return a.jsx(r,{type:e==="available"?"brand":"subtle",children:e.replace("_"," ")})}export{p as M};
