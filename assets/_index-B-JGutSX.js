@@ -1,0 +1,1 @@
+import{q as a,N as o}from"./index-CeStS-fb.js";import{c as n,d as s}from"./languages-InvAKIQr.js";function u(){if(typeof navigator<"u"){const r=navigator.languages||[];for(const t of r){const e=n(t);if(e)return a.jsx(o,{to:`/${e}`,replace:!0})}}return a.jsx(o,{to:`/${s}`,replace:!0})}export{u as default};

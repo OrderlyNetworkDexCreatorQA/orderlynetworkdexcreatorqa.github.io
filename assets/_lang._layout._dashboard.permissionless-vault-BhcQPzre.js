@@ -1,0 +1,1 @@
+import{q as r,N as e}from"./index-CeStS-fb.js";import{u as s}from"./localizedRoute-BRmnZl-z.js";import"./languages-InvAKIQr.js";import"./components-fKtp8Pkx.js";import"./index-DEEs_HUP.js";import"./index-CKtSMPmP.js";function u(){const t=s("/permissionless-listing");return r.jsx(e,{to:t,replace:!0})}export{u as default};

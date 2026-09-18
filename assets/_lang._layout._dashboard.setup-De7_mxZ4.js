@@ -1,0 +1,1 @@
+import{x as e}from"./index-CeStS-fb.js";import{a as r}from"./localizedRoute-BRmnZl-z.js";import"./languages-InvAKIQr.js";import"./components-fKtp8Pkx.js";import"./index-DEEs_HUP.js";import"./index-CKtSMPmP.js";function u(){const t=r();return e.useEffect(()=>{t("/onboarding",{replace:!0})},[t]),null}export{u as default};
