@@ -1,0 +1,1 @@
+import{q as s}from"./index-CeStS-fb.js";import{c as t}from"./utils-G74gwOzy.js";function o({className:a,...e}){return s.jsx("div",{className:t("animate-[fade-in_0.22s_ease-out]",a),...e})}export{o as F};

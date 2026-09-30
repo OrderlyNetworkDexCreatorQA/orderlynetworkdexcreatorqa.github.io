@@ -1,0 +1,1 @@
+function n(t){if(!t)return!1;try{const r=new URL(t.trim()).protocol;return r==="http:"||r==="https:"}catch{return!1}}function o(t){const r=t==null?void 0:t.trim();if(!(!r||!n(r)))return r}export{o as s};
